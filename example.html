@@ -1,0 +1,13 @@
+<script src="jquery.js"></script>
+<script src="jquery.placeholder.js"></script>
+<script>
+$(function() {
+
+	//$("input[type='text']").placeholder(); // Select all text inputs
+	//$("input, textarea").placeholder(); // Select all inputs and textarea
+	//$("input[type='text']").placeholder({ force: true }); // Select all text inputs and force all browsers
+  	$("input, textarea").placeholder({ force: true }); // Select all inputs and textarea and force all browsers
+});
+</script>
+<input type="text" placeholder="Name..."><br>
+<textarea placeholder="Comment..."></textarea>
