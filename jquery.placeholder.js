@@ -1,3 +1,9 @@
+/*
+## jQuery Placeholder (2014)
+## Author:  Siamak Aghaeipour
+## Email:   siamak.aghaeipour@gmail.com
+## Website: http://blacksrc.com
+*/
 (function($) {
     $.fn.placeholder = function(options) {
     	var config = $.extend({
