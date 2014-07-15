@@ -1,4 +1,4 @@
-placeholder
+jQuery Placeholder
 ===========
 
 Simple jQuery plugin to support HTML5 placeholder attribute.
