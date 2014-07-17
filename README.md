@@ -17,7 +17,7 @@ Then use it like this:
 ```
 If the browser supports HTML5 placeholder attribute, then the plugin doesn't do anything. But, if the browser does not support it. The plugin will do its job.
 
-If you want to force any old or new browser to use the plugin you can set `force` option as `true`. Just like this:
+If you want to force any old or new browser to use the plugin placeholder no matter the browser support it or not you can set `force` option as `true`. Just like this:
 ```javascript
   $("input[type='text']").placeholder({ force: true }); // Select all text inputs and force all browsers
   $("input, textarea").placeholder({ force: true }); // Select all inputs and textarea and force all browsers
