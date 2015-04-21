@@ -1,6 +1,6 @@
 /*
 ## jQuery Placeholder (2014)
-## Author:  Siamak Aghaeipour
+## Author:  Siamak Aghaeipour Motlagh
 ## Email:   siamak.aghaeipour@gmail.com
 ## Website: http://blacksrc.com
 */
